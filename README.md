@@ -1,2 +1,2 @@
-# others
-my personal tests, but everyone who wants to have a look is welcome
+# Challenge#3
+Key from Challenge #3 is needed for decrypting the file
